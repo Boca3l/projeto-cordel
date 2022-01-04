@@ -1,5 +1,5 @@
 # Projeto Cordel 🖖 💻
-## Curso de Github do Curso em Video
+## Curso de HTML5 e CSS3 do Curso em Video
 
 Exercícios do capítulo 20 do curso de HTML5 e CSS3 do curso em vídeo
 
